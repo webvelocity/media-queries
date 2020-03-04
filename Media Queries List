@@ -1,3 +1,25 @@
+/*
+Quick reference of screen sizes
+iPhone – 640px
+iPad – 1024px
+Tablets – 1366px
+Android phones – 640px, 720px, 854px, 960px are the most typical sizes
+Extra large android phones – 1024px or 1066px
+Smaller Windows phones – 480px
+Larger Windows phones – 768px
+Smaller and older phones – 320px
+Netbooks and small desktops – 128px
+Ultrabooks/Laptops – 1366px
+Desktops and TVs – 1920px
+
+*/
+
+
+
+
+
+
+
 /* ----------- Moto 360 Watch ----------- */
 @media 
   (max-device-width: 218px)
