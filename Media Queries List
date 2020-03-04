@@ -15,11 +15,6 @@ Desktops and TVs – 1920px
 */
 
 
-
-
-
-
-
 /* ----------- Moto 360 Watch ----------- */
 @media 
   (max-device-width: 218px)
